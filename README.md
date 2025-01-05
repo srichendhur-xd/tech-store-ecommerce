@@ -26,7 +26,6 @@ Welcome to the eCommerce Platform Project built using the MERN (MongoDB, Express
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Mongoose
 - **Authentication**: JWT (JSON Web Tokens), Bcrypt.js
-- **Payment Gateway**: Razorpay
 - **UI**: Bootstrap, React-Bootstrap, or Material UI (Choose your preferred styling library)
 
 ## Installation
